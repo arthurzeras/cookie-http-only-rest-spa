@@ -1,0 +1,16 @@
+{
+  "name": "cookie-http-only-rest-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "node backend/index.mjs",
+    "dev:front": "PORT=8081 npx http-server frontend"
+  },
+  "keywords": [],
+  "author": "Arthur Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
