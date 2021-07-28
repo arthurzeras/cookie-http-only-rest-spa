@@ -8,8 +8,8 @@ Node v12+
 
 ## Running
 
-Up server: `npm run dev:server`
-Up frontend: `npm run dev:front`
+- Up server: `npm run dev:server`
+- Up frontend: `npm run dev:front`
 
 Server runs on `1234` port and front in `8081` port
 
